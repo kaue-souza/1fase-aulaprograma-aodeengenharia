@@ -1,0 +1,5 @@
+nome =  input("Digite o nome do funcionario:")
+cargo = input("Digite o cargo do funcionario:")
+salario = int(input ("Digite o salario do funcionario"))
+aumento =  salario + (salario * 0.05)
+print ("valor do aumento é de", aumento)
